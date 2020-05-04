@@ -7,8 +7,8 @@
 
 \f0\fs24 \cf0 #My application credentials for twitter APIs\
 \
-consumer_key = "FULYEYV7jl8leJSPd1s1w3cDT"\
-consumer_secret = "d2Cch1IQ6j14rexgL95vpSbVZdMNmpS4mJEyrsb5HvfiDwi5Up"\
+CONSUMER_KEY = "FULYEYV7jl8leJSPd1s1w3cDT"\
+CONSUMER_SECRET = "d2Cch1IQ6j14rexgL95vpSbVZdMNmpS4mJEyrsb5HvfiDwi5Up"\
 \
-access_token = "1037999668343517184-5TV8TkeV13lMZHzUju1NXP0ArcMw7w"\
-access_token_secret = "BXXbmNSsr2UyPTE4At0f0zN1kzeCsxzLeDILDLtneQ5lA"}
+ACCESS_TOKEN = "1037999668343517184-5TV8TkeV13lMZHzUju1NXP0ArcMw7w"\
+ACCESS_TOKEN_SECRET = "BXXbmNSsr2UyPTE4At0f0zN1kzeCsxzLeDILDLtneQ5lA"}
